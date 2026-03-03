@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "さくら (二〇二〇合唱 / Bonus Tracks)",
+  "base_artist": "Naotaro Moriyama",
+  "createdAt": "2026-03-03T14:32:33.501751Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "さくら - 二〇二〇合唱 / Bonus Tracks",
+      "artist": "Naotaro Moriyama",
+      "has_synced": false,
+      "path": "select/01_さくら_-_二〇二〇合唱___Bonus_Tracks_Naotaro_Moriyama.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "さくら - 二〇二〇合唱",
+      "artist": "Naotaro Moriyama",
+      "has_synced": true,
+      "path": "select/02_さくら_-_二〇二〇合唱_Naotaro_Moriyama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "さくら (二〇二〇合唱 / Bonus Tracks)",
+      "artist": "森山直太朗",
+      "has_synced": false,
+      "path": "select/03_さくら_(二〇二〇合唱___Bonus_Tracks)_森山直太朗.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "さくら [二〇二〇合唱]",
+      "artist": "森山 直太朗",
+      "has_synced": false,
+      "path": "select/pl_01_さくら_[二〇二〇合唱]_森山_直太朗.txt"
+    }
+  ]
+}
